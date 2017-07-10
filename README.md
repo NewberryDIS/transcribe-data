@@ -3,13 +3,13 @@
 In this repository, users will find all the translations and transcriptions that have been submitted by volunteers as part of the <a href="http://publications.newberry.org/dig/rc-transcribe" target="_blank">Transcribing Faith</a> Newberry crowdsourcing project as of a certain date. 
 
 As of July 10, 2017, the items up for transcription are:
-
-Book of magical charms (http://publications.newberry.org/dig/rc-transcribe/charms)
-Commonplace-book (http://publications.newberry.org/dig/rc-transcribe/commonplace)
-Cases of conscience concerning witchcrafts (http://publications.newberry.org/dig/rc-transcribe/witchcrafts)
-Italian religious broadsides (http://publications.newberry.org/dig/rc-transcribe/italian-religious-broadsides)
-Calligraphic commonplace-book (http://publications.newberry.org/dig/rc-transcribe/calligraphic-commonplace-book)
-
+<ul>
+<li>Book of magical charms (http://publications.newberry.org/dig/rc-transcribe/charms)</li>
+<li>Commonplace-book (http://publications.newberry.org/dig/rc-transcribe/commonplace)</li>
+<li>Cases of conscience concerning witchcrafts (http://publications.newberry.org/dig/rc-transcribe/witchcrafts)</li>
+<li>Italian religious broadsides (http://publications.newberry.org/dig/rc-transcribe/italian-religious-broadsides)</li>
+<li>Calligraphic commonplace-book (http://publications.newberry.org/dig/rc-transcribe/calligraphic-commonplace-book)</li>
+</ul>
 Each item has its own folder represented in this repository. The folders contain: 
 
 - A comma-separated values (CSV) file with columns for: 
