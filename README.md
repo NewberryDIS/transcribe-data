@@ -20,6 +20,6 @@ Each item has its own folder represented in this repository. The folders contain
   5) A direct link to the page image
 - An XML file with metadata for the item, formatted for the object as it appears in our CONTENTdm collection (http://collections.carli.illinois.edu/cdm/landingpage/collection/nby_dig)
 
-Transcription and translation data has been cleaned of markup, but some user-added annotations remain.
+Transcription and translation data has been cleaned of markup, but some user-added annotations remain. Note that CSV files are encoded in UTF-8 so some characters may display strangely when viewed in Microsoft Excel.
 
 Data will be updated semi-regularly, as time allows and possibly upon request, up until the point that transcriptions are considered "complete".
